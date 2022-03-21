@@ -1,6 +1,6 @@
 {
-  "name": "@agung96tm/react_rockstar_ui",
-  "version": "1.0.0",
+  "name": "@agung96tm/react-rockstar-ui",
+  "version": "1.0.2",
   "description": "React UI Component for Rockstar 🤘",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

@@ -7,7 +7,7 @@ React UI Component for Rockstar 🤘
 ### Install
 
 ```console
-$ npm install react_rockstar_ui
+$ npm install @agung96tm/react-rockstar-ui
 ```
 
 
